@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/drawable/bgbutton.xml" value="0.20052083333333334" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/drawable/bgdashboard1.xml" value="0.20052083333333334" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/drawable/bginput.xml" value="0.20052083333333334" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/drawable/bginputlogin.xml" value="0.20052083333333334" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/drawable/bgmoreview.xml" value="0.20052083333333334" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/drawable/bgprofil.xml" value="0.20052083333333334" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/drawable/bgsearch.xml" value="0.20052083333333334" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/layout/activity_kehutanan.xml" value="0.12318840579710146" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/layout/activity_login.xml" value="0.184375" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/layout/activity_main.xml" value="0.184375" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/layout/activity_perikanan.xml" value="0.1213768115942029" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/layout/activity_peternakan.xml" value="0.11956521739130435" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/layout/activity_profil.xml" value="0.184375" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/layout/activity_spalsh_screen.xml" value="0.184375" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/layout/activity_tambah_edit.xml" value="0.22" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/layout/activity_tambah_edit_kehutanan.xml" value="0.184375" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/layout/activity_tambah_edit_perikanan.xml" value="0.3878437047756874" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/layout/activity_tambah_edit_peternakan.xml" value="0.1703125" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/layout/activity_tani_jagung.xml" value="0.184375" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/layout/row_kehutanan.xml" value="0.43478260869565216" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/layout/row_perikanan.xml" value="0.5942350332594235" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/layout/row_peternakan.xml" value="0.22" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/layout/row_tani.xml" value="0.19722222222222222" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/layout/row_ternak.xml" value="0.22" />
+        <entry key="..\:/CODE/code/AndroidStudio/pertanian/app/src/main/res/menu/menu_delete.xml" value="0.184375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

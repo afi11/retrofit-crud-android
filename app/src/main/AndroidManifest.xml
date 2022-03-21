@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pertanian" >
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/bps"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/bps"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Pertanian"
+        android:usesCleartextTraffic="true" >
+        <activity
+            android:name=".views.splashscreen.SpalshScreenActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".views.auth.LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name=".views.kehutanan.TambahEditKehutananActivity"
+            android:exported="true" />
+        <activity
+            android:name=".views.kehutanan.KehutananActivity"
+            android:exported="true" />
+        <activity
+            android:name=".views.perikanan.TambahEditPerikananActivity"
+            android:exported="true" />
+        <activity
+            android:name=".views.perikanan.PerikananActivity"
+            android:exported="true" />
+        <activity
+            android:name=".views.peternakan.TambahEditPeternakanActivity"
+            android:exported="true" />
+        <activity
+            android:name=".views.peternakan.PeternakanActivity"
+            android:exported="true" />
+        <activity
+            android:name=".views.jagung.TambahEditJagungActivity"
+            android:exported="true" />
+        <activity
+            android:name=".views.jagung.TaniJagungActivity"
+            android:exported="true" />
+        <activity
+            android:name=".views.kacang.TambahEditKacangActivity"
+            android:exported="true" />
+        <activity
+            android:name=".views.kacang.TaniKacangActivity"
+            android:exported="true" />
+        <activity
+            android:name=".views.kedelai.TambahEditKedelaiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".views.kedelai.TaniKedelaiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".views.padi.TambahEditPadiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".views.padi.TaniPadiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".views.ubijalar.TambahEditUbiJalarActivity"
+            android:exported="true" />
+        <activity
+            android:name=".views.ubijalar.TaniUbiJalarActivity"
+            android:exported="true" />
+        <activity
+            android:name=".views.ubikayu.TambahEditUbiKayuActivity"
+            android:exported="true" />
+        <activity
+            android:name=".views.ubikayu.TaniUbiKayuActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" >
+        </activity>
+    </application>
+
+</manifest>
